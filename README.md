@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on webdevelopment projects 
 - 📫 How to reach me 
 - instagram---> _alwaysaugat
-- twitter-----> alwaysaugat
 - email-------> ksaugat77@gmail.com
 
 <!---
