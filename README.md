@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @saugat077
-- 👀 I’m interested in web development and UI/UX design
-- 🌱 I’m currently learning HTML AND CSS
-- 💞️ I’m looking to collaborate on webdevelopment projects 
 - 📫 How to reach me 
 - instagram---> _alwaysaugat
 - email-------> ksaugat77@gmail.com
