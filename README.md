@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saugat077
 - 📫 How to reach me 
-- instagram---> _alwaysaugat
-- email-------> ksaugat77@gmail.com
+- Website - saugatkc77.com.np
+-Email ---- contact@saugatkc77.com.np
 
 <!---
 saugat077/saugat077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
