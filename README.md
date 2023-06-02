@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **contact@saugatkc77.com**
+- 📫 How to reach me **contact@saugatkc77.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
