@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saugat K.C</h1>
 <p align="left"> <a href="https://twitter.com/alwaysaugat" target="blank"><img src="https://img.shields.io/twitter/follow/alwaysaugat?logo=twitter&style=for-the-badge" alt="alwaysaugat" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱
 
 - 📫 Visit  **https://saugatkc77.com.np/**
 
