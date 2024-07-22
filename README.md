@@ -8,7 +8,7 @@ Exploring the never ending domain of information technology. Tried a bit of ever
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [ksaugat77@gmail.com](mailto:ksaugat77@gmail.com)
-* ⚡  I wonder if Fish thinks Crabs are flying
+
 
 ### Skills
 
